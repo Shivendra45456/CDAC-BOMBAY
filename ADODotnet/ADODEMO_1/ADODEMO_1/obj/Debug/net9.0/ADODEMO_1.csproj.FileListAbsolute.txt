@@ -1,0 +1,156 @@
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ADODEMO_1.exe
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ADODEMO_1.deps.json
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ADODEMO_1.runtimeconfig.json
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ADODEMO_1.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ADODEMO_1.pdb
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Azure.Core.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Azure.Identity.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.ClientModel.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Memory.Data.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.csproj.AssemblyReference.cache
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.AssemblyInfoInputs.cache
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.AssemblyInfo.cs
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.csproj.CoreCompileInputs.cache
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.csproj.Up2Date
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\refint\ADODEMO_1.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.pdb
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.genruntimeconfig.cache
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ref\ADODEMO_1.dll
+D:\DAC C#DotNet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\appsettings.json
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\appsettings.json
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ADODEMO_1.exe
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ADODEMO_1.deps.json
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ADODEMO_1.runtimeconfig.json
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ADODEMO_1.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ADODEMO_1.pdb
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Azure.Core.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Azure.Identity.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.ClientModel.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Data.SqlClient.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Memory.Data.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.csproj.AssemblyReference.cache
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.AssemblyInfoInputs.cache
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.AssemblyInfo.cs
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.csproj.CoreCompileInputs.cache
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.csproj.Up2Date
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\refint\ADODEMO_1.dll
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.pdb
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ADODEMO_1.genruntimeconfig.cache
+E:\ADODotnet\ADODEMO_1\ADODEMO_1\obj\Debug\net9.0\ref\ADODEMO_1.dll
